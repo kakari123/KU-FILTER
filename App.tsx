@@ -52,10 +52,10 @@ const App: React.FC = () => {
         <div className="min-h-screen bg-gray-900 text-white font-sans flex flex-col items-center p-4 sm:p-6 md:p-8">
             <header className="w-full max-w-6xl text-center mb-8">
                 <h1 className="text-4xl sm:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-teal-300">
-                   یەکەمین فلتەر کەری کووردی
+                   یەکەمین سایتی کووردی بۆ سانسۆر کردنی وشەکان
                 </h1>
-                <p className="text-gray-400 mt-2 text-lg">
-                    دەستبەجێ ئەو وشانەی دیاریکراون لە دەقەکەتدا بە شێوازێکی تایبەت فلتەر بکە.
+                <p className="text-gray-400 mt-2 text-lg max-w-3xl mx-auto">
+                    لە ڕێگای ئەم سایتەوە ئەتوانی هەموو گروپ و پەیجەکانت بپاریزیت لە سووتان و زیان پی کەوتن بە فلتەر و سانسۆر کردنی هەموو ئەو وشانەی کە زیانیان هەیە گەر لە پۆستەکانتدا هەبن
                 </p>
             </header>
 
@@ -105,7 +105,7 @@ const App: React.FC = () => {
             </main>
 
             <footer className="w-full max-w-6xl text-center mt-8 text-gray-500 text-sm">
-                <p>دیزاین کراوە بۆ فلتەرکردنی دەق بە شێوەیەکی جوان و کارا.</p>
+                <p>دروست کراوە لە لایەن ARI TECH , و پیشەکەش کراوە بە گروپی ناوچەی تەکنەلۆجی</p>
             </footer>
         </div>
     );
